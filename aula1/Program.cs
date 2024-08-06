@@ -1,4 +1,4 @@
-﻿namespace Aula1;
+﻿namespace aula1;
 
 class Program
 {
