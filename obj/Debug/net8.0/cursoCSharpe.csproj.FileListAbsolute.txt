@@ -1,5 +1,0 @@
-C:\Users\administrator\Documents\GitHub\cursoCSharpe\obj\Debug\net8.0\cursoCSharpe.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\administrator\Documents\GitHub\cursoCSharpe\obj\Debug\net8.0\cursoCSharpe.AssemblyInfoInputs.cache
-C:\Users\administrator\Documents\GitHub\cursoCSharpe\obj\Debug\net8.0\cursoCSharpe.AssemblyInfo.cs
-C:\Users\administrator\Documents\GitHub\cursoCSharpe\obj\Debug\net8.0\cursoCSharpe.csproj.CoreCompileInputs.cache
-C:\Users\administrator\Documents\GitHub\cursoCSharpe\obj\Debug\net8.0\cursoCSharpe.sourcelink.json
